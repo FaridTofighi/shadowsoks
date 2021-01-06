@@ -1,4 +1,4 @@
-#shadowsocks and v2ray-plugin
+# shadowsocks and v2ray-plugin
 Runnig shadowsocks with v2ray-plugin
 ```bash
 $ git clone https://github.com/FaridTofighi/shadowsoks.git
